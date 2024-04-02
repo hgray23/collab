@@ -1,1 +1,2 @@
 My capstone project involves analysing football players' statistics and finding which players would be suited best to the type of player I'm looking for, in this case an attacker [Hugo Gray]
+My business idea aims to develop a unique language-learning app tailored for international music enthusiasts, focused on learning the lyrics of favourite songs, with integration capabilities with popular music streaming platforms [Anastasia Donald]
