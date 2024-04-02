@@ -1,0 +1,1 @@
+My capstone project involves analysing football players' statistics and finding which players would be suited best to the type of player I'm looking for, in this case an attacker [Hugo Gray]
