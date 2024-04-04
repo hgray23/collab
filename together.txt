@@ -1,4 +1,4 @@
 My capstone project involves analysing football players' statistics and finding which players would be suited best to the type of player I'm looking for, in this case an attacker [Hugo Gray]
 My business idea aims to develop a unique language-learning app tailored for international music enthusiasts, focused on learning the lyrics of favourite songs, with integration capabilities with popular music streaming platforms [Anastasia Donald]
 In my capstone project I will analyse two data sets showing the amount of greenspaces (parks, gardens and fields) in each Local Area Districts of the UK. I aim to decide which area requires additional greenspaces the most. [Luke Harhoff]
-My capstone project is about evaluating a domain's value and life based on its length,extension and historical data of domain lives. 
+My capstone project is about evaluating a domain's value and life based on its length,extension and historical data (given from a hosting company) of domain lives. Furthermore, I will provide insights for the data given. [M Ameen ]
